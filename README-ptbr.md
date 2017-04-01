@@ -17,6 +17,15 @@ E no final de cada línguagem, além do artigo. Vou criar um projeto que seja ú
 	* [] npm
 	* [] Express
 	* [] Mocha
+* [] Docker
+* [] Web Server
+	* [] ngix
+* [] Authentication
+	* [] OAuth 2.0
+* [] Test Driven Development
+* [] MariaDB
+* [] Golang
+* [] Redis
 
 ## Contribuições
 Qualquer pessoa pode estar contribuindo, postando nas `Issues` qualquer link útil das linguagens citadas no README

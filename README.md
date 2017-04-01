@@ -17,6 +17,15 @@ And at the end of each language, in addition to the article. I will create a pro
 	* [] npm
 	* [] Express
 	* [] Mocha
+* [] Docker
+* [] Web Server
+	* [] ngix
+* [] Authentication
+	* [] OAuth 2.0
+* [] Test Driven Development
+* [] MariaDB
+* [] Golang
+* [] Redis
 
 ## Contributions
 Anyone may be contributing, posting in the Issues any useful link of the languages mentioned in the README
