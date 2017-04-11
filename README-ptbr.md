@@ -2,30 +2,31 @@
 Minha jornada para me tornar um Desenvolvedor Back-End
 
 Toda vez que eu aprender alguma coisa, vou escrever um artigo falando sobre isso. Então, eu posso compartilhar minhas experiências com vocês.
-E no final de cada línguagem, além do artigo. Vou criar um projeto que seja útil para as pessoas.
+E no final de cada linguagem, banco de dados ou serviço, além do artigo, vou criar um projeto que pode ser útil para as pessoas.
+
+[Website](https://gka19.github.io)
 
 * [] Python
 	* [] Django
 	* [] unittest/pyUnit
 	* [] pip
-	* [] aiohttp
-* [] Node.js
-	* [] npm
-	* [] Express
-	* [] Mocha
-* [] Ruby
-	* [] npm
-	* [] Express
-	* [] Mocha
+* [] JavaScript
+	* [] Node.js
+		* [] npm
+		* [] Yarn
+		* [] Express
+		* [] Mocha
+* [] Ruby/Rails
+	* [] Rubygems
+	* [] RSpec
+* [] Elixir
 * [] Docker
-* [] Web Server
-	* [] ngix
-* [] Authentication
-	* [] OAuth 2.0
+* [] MongoDB
+* [] Go/Golang
 * [] Test Driven Development
-* [] MariaDB
-* [] Golang
-* [] Redis
+* [] Continuous Integration
+* [] Kanban
+* [] Pair Programming
 
 ## Contribuições
 Qualquer pessoa pode estar contribuindo, postando nas `Issues` qualquer link útil das linguagens citadas no README
