@@ -1,0 +1,12 @@
+[submodule "myPythonJourney"]
+	path = myPythonJourney
+	url = https://github.com/gkal19/myPythonJourney
+[submodule "myGoJourney"]
+	path = myGoJourney
+	url = https://github.com/gkal19/myGoJourney
+[submodule "myNodeJourney"]
+	path = myNodeJourney
+	url = https://github.com/gkal19/myNodeJourney
+[submodule "myRubyJourney"]
+	path = myRubyJourney
+	url = https://github.com/gkal19/myRubyJourney
