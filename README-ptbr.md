@@ -6,23 +6,23 @@ E no final de cada linguagem, banco de dados ou serviço, além do artigo, vou c
 
 [Website](https://gka19.github.io)
 
-* [] Python
+* [x] [Python](https://github.com/gkal19/roadToBackEnd/tree/master/pythonJourney)
 	* [] Django
 	* [] unittest/pyUnit
 	* [] pip
 * [] JavaScript
-	* [] Node.js
+	* [] [Node.JS](https://github.com/gkal19/roadToBackEnd/tree/master/nodeJourney)
 		* [] npm
 		* [] Yarn
 		* [] Express
 		* [] Mocha
-* [] Ruby/Rails
+* [] [Ruby/Rails](https://github.com/gkal19/roadToBackEnd/tree/master/rubyJourney)
 	* [] Rubygems
 	* [] RSpec
 * [] Elixir
 * [] Docker
 * [] MongoDB
-* [] Go/Golang
+* [] [Go/Golang](https://github.com/gkal19/roadToBackEnd/tree/master/goJourney)
 * [] Test Driven Development
 * [] Continuous Integration
 * [] Kanban
