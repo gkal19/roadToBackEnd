@@ -10,3 +10,6 @@
 [submodule "myRubyJourney"]
 	path = myRubyJourney
 	url = https://github.com/gkal19/myRubyJourney
+[submodule "myReactJourney"]
+	path = myReactJourney
+	url = https://github.com/gkal19/myReactJourney.git
