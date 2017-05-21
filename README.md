@@ -16,6 +16,8 @@ And at the end of each one language, database or service, in addition to the art
 		* [] Yarn
 		* [] Express
 		* [] Mocha
+	* [] React
+		* [] Redux
 * [] Ruby/Rails
 	* [] Rubygems
 	* [] RSpec

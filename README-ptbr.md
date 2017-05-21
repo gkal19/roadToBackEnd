@@ -16,6 +16,8 @@ E no final de cada linguagem, banco de dados ou serviço, além do artigo, vou c
 		* [] Yarn
 		* [] Express
 		* [] Mocha
+	* [] React
+		* [] Redux
 * [] Ruby/Rails
 	* [] Rubygems
 	* [] RSpec
