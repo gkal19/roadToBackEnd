@@ -6,23 +6,23 @@ And at the end of each one language, database or service, in addition to the art
 
 [WEBSITE](https://gka19.github.io)
 
-* [x] [Python](https://github.com/gkal19/roadToBackEnd/tree/master/pythonJourney)
+* [x] Python
 	* [] Django
 	* [] unittest/pyUnit
 	* [] pip
 * [] JavaScript
-	* [] [Node.JS](https://github.com/gkal19/roadToBackEnd/tree/master/nodeJourney)
+	* [] Node.JS
 		* [] npm
 		* [] Yarn
 		* [] Express
 		* [] Mocha
-* [] [Ruby/Rails](https://github.com/gkal19/roadToBackEnd/tree/master/rubyJourney)
+* [] Ruby/Rails
 	* [] Rubygems
 	* [] RSpec
 * [] Elixir
 * [] Docker
 * [] MongoDB
-* [] [Go/Golang](https://github.com/gkal19/roadToBackEnd/tree/master/goJourney)
+* [] Go/Golang
 * [] Test Driven Development
 * [] Continuous Integration
 * [] Kanban
