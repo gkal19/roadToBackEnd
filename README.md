@@ -19,13 +19,13 @@ And at the end of each one language, database or service, in addition to the art
 *  Ruby/Rails
 	*  Rubygems
 	*  RSpec
-*  Elixir
 *  Docker
 *  MongoDB
 * [x] Go/Golang
 *  Test Driven Development
 *  Continuous Integration
 *  Kanban
+*  Scrum
 *  Pair Programming
 
 # Links
