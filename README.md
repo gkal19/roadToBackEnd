@@ -1,8 +1,10 @@
 <h1 align="center">
   <br>
-   roadToBackEnd
+   	roadToBackEnd
   <br>
-  My journey to becoming a Back-End Developer
+  <p align="center">
+	My journey to becoming a Back-End Developer
+</p>
   <br>
 </h1>
 
