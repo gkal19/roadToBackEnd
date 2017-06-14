@@ -30,11 +30,11 @@ And at the end of each one language, database or service, in addition to the art
 
 # Links
 * JavaScript
- - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript)
- - [Speaking JS](http://speakingjs.com/es5/index.html)
- - [Exploring ES6](http://exploringjs.com/es6/index.html)
- - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
- - [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+ 	- [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript)
+	- [Speaking JS](http://speakingjs.com/es5/index.html)
+ 	- [Exploring ES6](http://exploringjs.com/es6/index.html)
+ 	- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
+ 	- [Setting up ES6](https://leanpub.com/setting-up-es6/read)
 
 ## Contributions
 Anyone may be contributing, posting in the Issues any useful link of the languages mentioned in the README
