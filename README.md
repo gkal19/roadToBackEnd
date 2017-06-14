@@ -1,13 +1,19 @@
-# roadToBackEnd
-My journey to becoming a Back-End Developer
+<h1 align="center">
+  <br>
+   roadToBackEnd
+  <br>
+  My journey to becoming a Back-End Developer
+  <br>
+</h1>
 
-Every time I learn something, I will write an article talking about it.So I can share my experiences with you.
+Every time I learn something, I will write an article talking about it. So I can share my experiences with you.
+<br>
 And at the end of each one language, database or service, in addition to the article, I will create a project that can be useful to people.
 
 * [x] Python
 	*  Django
 	*  unittest/pyUnit
-	*  pip
+	[x]  pip
 *  JavaScript
 	* [x] Node.JS
 		* [x] npm
@@ -38,3 +44,5 @@ And at the end of each one language, database or service, in addition to the art
 
 ## Contributions
 Anyone may be contributing, posting in the Issues any useful link of the languages mentioned in the README
+
+> Inspired by: [kamranahmedse/developer-roadmap#-back-end-roadmap](https://github.com/kamranahmedse/developer-roadmap) :heart:
