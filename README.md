@@ -2,10 +2,8 @@
   <br>
    	roadToBackEnd
   <br>
-  <p align="center">My journey to becoming a Back-End Developer</p>
-  <br>
 </h1>
-
+<p align="center">My journey to becoming a Back-End Developer</p>
 Every time I learn something, I will write an article talking about it. So I can share my experiences with you.
 <br>
 And at the end of each one language, database or service, in addition to the article, I will create a project that can be useful to people.
