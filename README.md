@@ -2,9 +2,7 @@
   <br>
    	roadToBackEnd
   <br>
-  <p align="center">
-	My journey to becoming a Back-End Developer
-</p>
+  <p align="center">My journey to becoming a Back-End Developer</p>
   <br>
 </h1>
 
