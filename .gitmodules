@@ -13,3 +13,6 @@
 [submodule "myReactJourney"]
 	path = myReactJourney
 	url = https://github.com/gkal19/myReactJourney.git
+[submodule "myCSharpJourney"]
+	path = myCSharpJourney
+	url = git://github.com/gkal19/myCSharpJourney.git
