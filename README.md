@@ -31,6 +31,7 @@ And at the end of each one language, database or service, in addition to the art
 *  Kanban
 *  Scrum
 *  Pair Programming
+*  C# or CSharp
 
 # Links
 * JavaScript
@@ -39,8 +40,9 @@ And at the end of each one language, database or service, in addition to the art
  	- [Exploring ES6](http://exploringjs.com/es6/index.html)
  	- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
  	- [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+ 	- [Curso de C#](https://www.youtube.com/watch?v=9Uh0ynDB6ko&list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)
 
 ## Contributions
 Anyone may be contributing, posting in the Issues any useful link of the languages mentioned in the README
 
-> Inspired by: [kamranahmedse/developer-roadmap#-back-end-roadmap](https://github.com/kamranahmedse/developer-roadmap) :heart:
+> Inspired by: [kamranahmedse/developer-roadmap#-back-end-roadmap](https://github.com/kamranahmedse/developer-roadmap#-back-end-roadmap) :heart:
