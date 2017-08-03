@@ -31,7 +31,6 @@ And at the end of each one language, database or service, in addition to the art
 *  Kanban
 *  Scrum
 *  Pair Programming
-*  C# or CSharp
 
 # Links
 * JavaScript
@@ -40,8 +39,6 @@ And at the end of each one language, database or service, in addition to the art
  	- [Exploring ES6](http://exploringjs.com/es6/index.html)
  	- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
  	- [Setting up ES6](https://leanpub.com/setting-up-es6/read)
-* C#
- 	- [Curso de C# - eXcript](https://www.youtube.com/watch?v=9Uh0ynDB6ko&list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)
 * Python
     - [Curso de Python - eXcript](https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)
     - [Aulas Python - Ignorância Zero](https://www.youtube.com/watch?v=lJjR906426o&list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
