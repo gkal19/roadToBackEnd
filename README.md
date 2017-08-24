@@ -3,29 +3,31 @@
    	roadToBackEnd
   <br>
 </h1>
-<p align="center">My journey to becoming a Back-End Developer</p>
+<p align="center">My road to becoming a Back-End Developer</p>
 Every time I learn something, I will write an article talking about it. So I can share my experiences with you.
 <br>
 And at the end of each one language, database or service, in addition to the article, I will create a project that can be useful to people.
-
-* [x] Python
+<br>
+[My blog](https://gkal19.github.io)
+<br>
+* [x] [Python](https://github.com/gkal19/PythonRoad)
 	*  Django
 	*  unittest/pyUnit
 	* [x] pip
-*  JavaScript
-	* [x] Node.JS
+*  [JavaScript](https://github.com/gkal19/curso-javascript-ninja)
+	* [x] [Node.JS](https://github.com/gkal19/NodeRoad)
 		* [x] npm
 		*  Express
 		*  Mocha
 	* [x] React
 		*  Redux
 		*  Flux
-*  Ruby/Rails
+*  [Ruby/Rails](https://github.com/gkal19/RubyRoad)
 	*  Rubygems
 	*  RSpec
 *  Docker
 *  MongoDB
-* [x] Go/Golang
+* [x] [Go/Golang](https://github.com/gkal19/GoRoad)
 *  Test Driven Development
 *  Continuous Integration
 *  Kanban
@@ -39,6 +41,7 @@ And at the end of each one language, database or service, in addition to the art
  	- [Exploring ES6](http://exploringjs.com/es6/index.html)
  	- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/)
  	- [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+	- [Curso JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/)
 * React.js
  	- [React + Redux: Fundamentos e Duas Apps do ABSOLUTO ZERO! ](https://www.udemy.com/react-redux-pt/)
 	- [Curso React.js Ninja - React Completo](https://www.udemy.com/curso-reactjs-ninja/)
