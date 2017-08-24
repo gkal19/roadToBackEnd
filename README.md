@@ -7,9 +7,9 @@
 Every time I learn something, I will write an article talking about it. So I can share my experiences with you.
 <br>
 And at the end of each one language, database or service, in addition to the article, I will create a project that can be useful to people.
-<br>
+
 [My blog](https://gkal19.github.io)
-<br>
+
 * [x] [Python](https://github.com/gkal19/PythonRoad)
 	*  Django
 	*  unittest/pyUnit
